@@ -1,0 +1,8 @@
+conceito FIFO: first in first out
+o primeiro a chegar será o primeiro a sair
+
+FRONT (frente) é a referncia do primeiro elemento a entrar na fila
+
+BACK (fundo) é a referencia do ultimo elemento a entrar na fila
+
+(outros metodos podem ser adicionados como size() que mostra o tamanho da fila ou front() para pegar o primeiro elemento da fila, dentre outros)

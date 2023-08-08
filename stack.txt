@@ -1,0 +1,2 @@
+conceito LIFO: last in First out
+o ultimo elemento adicionado na pilha, logo será o primeiro da pilha, portanto será o primeiro a sair
